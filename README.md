@@ -21,7 +21,7 @@ Busco ajudar especialistas e lideres a compreenderem, se posicionarem e estabele
 
 ## Projetos:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
+* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/airbnb_rio_janeiro
 
 
 
