@@ -21,7 +21,7 @@ Busco ajudar especialistas e lideres a compreenderem, se posicionarem e estabele
 
 ## Projetos:
 
-* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/airbnb_rio_janeiro
+* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/airbnb_rio_de_janeiro
 
 
 
